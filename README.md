@@ -1,13 +1,10 @@
-### Hi there , I'm Yogesh Acharya👋
+### Hi there, I'm Yogesh Acharya! 👋
 
 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
+- 🔭 I’m a passionate developer with expertise in Laravel, MySQL, PostgreSQL, Oracle, and some basic knowledge of C Sharp.
+- 🌱 I’m currently learning some frontend frameworks too.
+- 👯 I’m looking to collaborate on database-related projects that challenge me in the data world.
+- 💬 Ask me about development and database-related tasks.
 - 📫 How to reach me: ...
-- 😄 Linkden: https://www.linkedin.com/in/yogesh-acharya-66a845152/
--->
+- 😄 LinkedIn: [Yogesh Acharya](https://www.linkedin.com/in/yogesh-acharya-66a845152/)
