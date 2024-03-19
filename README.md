@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on database-related projects that challenge me in the data world.
 - 💬 Ask me about development and database-related tasks.
 - 📫 How to reach me: ...
-- 😄 LinkedIn: [Yogesh Acharya](https://www.linkedin.com/in/yogesh-acharya-66a845152/)
+- 😄 [LinkedIn](https://www.linkedin.com/in/yogesh-acharya-66a845152/)
