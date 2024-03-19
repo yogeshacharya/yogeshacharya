@@ -7,8 +7,8 @@ Experienced Software Developer with over 6 years of expertise in application dev
 
 🛠 Skills
 
-✓ Software Development (PHP Laravel, JavaScript, jQuery ASP.NET, C#)
-✓ Database (Postgres, MySQL, Oracle)
-✓ Code debugging, Problem-solving
-✓ Web application Deployment (Centos/Ubuntu)
-✓ Working on VM like VirtualMin for deploying the product
+- Software Development (PHP Laravel, JavaScript, jQuery ASP.NET, C#)
+- Database (Postgres, MySQL, Oracle)
+- Code debugging, Problem-solving
+- Web application Deployment (Centos/Ubuntu)
+- Working on VM like VirtualMin for deploying the product
