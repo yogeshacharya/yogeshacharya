@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning some frontend frameworks too.
 - 👯 I’m looking to collaborate on database-related projects that challenge me in the data world.
 - 💬 Ask me about development and database-related tasks.
+- 😊 I am happy to work on database-related and big data projects, and I enjoy working with servers too.
 - 📫 How to reach me:
      - [LinkedIn](https://www.linkedin.com/in/yogesh-acharya-66a845152/)
 
