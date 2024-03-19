@@ -1,18 +1,14 @@
 ### Hi there, I'm Yogesh Acharya! 👋
 
 🚀 About Me
-
-- 🔭 I’m a passionate developer with expertise in Laravel, MySQL, PostgreSQL, Oracle, and some basic knowledge of C Sharp.
-- 🌱 I’m currently learning some frontend frameworks too.
-- 👯 I’m looking to collaborate on database-related projects that challenge me in the data world.
-- 💬 Ask me about development and database-related tasks.
-- 😊 I am happy to work on database-related and big data projects, and I enjoy working with servers too.
+Experienced Software Developer with over 6 years of expertise in application development. Proficient in all aspects of the software development life cycle, including design, coding, debugging, testing, and SQL queries. Adept decision-maker, analytical thinker, and innovative designer with a knack for devising unconventional yet remarkably efficient solutions. Committed and dependable software developer dedicated to surpassing expectations to assist the team and satisfy customers. Enthusiastic about ongoing learning and professional advancement
 - 📫 How to reach me:
      - [LinkedIn](https://www.linkedin.com/in/yogesh-acharya-66a845152/)
 
 🛠 Skills
 
-- Backend: Laravel, CSharp
-- Frontend: Vue.js
-- Databases: MySQL, PostgreSQL, Oracle
-- Currently Learning: Frontend Technology
+✓ Software Development (PHP Laravel, JavaScript, jQuery ASP.NET, C#)
+✓ Database (Postgres, MySQL, Oracle)
+✓ Code debugging, Problem-solving
+✓ Web application Deployment (Centos/Ubuntu)
+✓ Working on VM like VirtualMin for deploying the product
